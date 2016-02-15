@@ -1,0 +1,17 @@
+Ligne Urgence + règle
+
+Tout ne peut pas être planifié et prévu durant un sprint planning. Pour gérer les tâches urgentes et non prévues de manière structurée et transparente, ajouter une ligne URGENCE.
+
+Comme les tâches urgentes ne sont jamais planifiées, la colonne "Planifiée" (tâches à faire) est inutile. Utilisez cet espace plutôt pour rédiger clairement les règles qui décrivent ce qui correspond à une tâche urgente. Quels sont les critères à remplir pour qu'une tâche ait le droit d'aller directement dans cette ligne ? Si ces critères ne sont pas remplis, la tâche ne devraitêtre prise en compte pour le prochain sprint planning ou pour la prochaine session d'affinage du backlog.
+
+La ligne urgente devrait être normalement vide ! Rappelez vous qu'à chaque fois que vous introduisez quelque chose dans cette ligne vous créez du gaspillage en termes de changement de tâches et de multitasking. Avec de grands pouvoirs viennent de grandes responsabilités. N'abusez pas de la ligne Urgence.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+Urgent lane + policy 
+
+Not everything can be planned and foreseen during the sprint planning. To deal with urgent unplanned tasks in a structured and transparent way, add an URGENT lane.
+
+Since urgent tasks are never planned, the “Planned” (Tasks Todo) column isn’t needed. Use that area instead to clearly state the policy that describes what counts as an urgent task. Which criteria need to be fulfilled for a task to be allowed to go straight into the urgent lane? If the criteria are not met, the task should be considered during the next sprint planning or the next Backlog Grooming session..
+
+The urgent lane should normally be empty! Remember that every time you introduce something into that lane you create waste in terms of task switching and multitasking. With great powers come great responsibility. Don’t abuse the urgent lane.
+
