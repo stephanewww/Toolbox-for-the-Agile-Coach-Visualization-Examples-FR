@@ -1,0 +1,18 @@
+Dates contraintes et boites
+
+Parfois il y a une contrainte de date sur certaines choses, comme un bug sur un patch critique. Pour le visualiser, écrivez la contrainte de date sur la tâche, et dessinez une boite pour chaque jour disponible jusqu'à cette date.
+
+Durant le Daily Stand-up, rayez une des boites. De cette manière vous voyez aisément quand vous êtes à court de temps et combien de jours restent disponibles.
+
+Parfois le bug doit être réglé immédiatement, vous forçant à arrêter le reste de ce que vous faîtes. Mais parfois vous avez des marges, vous permettant de finaliser vos activités avant de traiter une tâche semi-urgente. C'est le moment où les dates fixes et les boites sont bien pratiques.
+
+------------------------------- ORIGINAL TEXT BELOW -----------------------------------------------
+
+Due dates and boxes
+
+Sometimes there is a strict due date on fixing things, like a bug for a critical patch. To visualize this, write the date of the deadline the task has to be finished by, and draw one box for each day that remains until that date.
+
+On the Daily Stand-up meeting, cross one of the boxes. This way you can easily see when time is running out and how many days are left.
+
+Sometimes the bug needs to be dealt with right away forcing you to drop whatever else you are doing. But sometimes there is some leeway, allowing you to wrap things up before addressing the semi-urgent task. That’s when due dates and boxes comes in handy.
+
